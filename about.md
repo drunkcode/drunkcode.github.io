@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Us
+permalink: /about-us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[DrunkCode](http://drunkcode.org) is the union of two mobile programmers and at the same time two crazy dudes.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+The passion for developing and having a great time is the base for building this blog.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Our focus is trying to show you the errors that we have done and how to avoid them without throw your computer out the window.
+
+Let’s do this together!
